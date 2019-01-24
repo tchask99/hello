@@ -6,6 +6,7 @@ int main (void){
 // Edited by Jialong Zhang
   
 printf("Hello, my name is Tanner Haskins\n");
+printf("Hello, my name is Jialong Zhang, my major is computer science\n");
 printf("My major is Electrical Engineering\n");
 
 return 0;
