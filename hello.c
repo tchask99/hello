@@ -1,13 +1,14 @@
-#include <studio.h>
+/**
+* Author: Tanner Haskins 
+* Date: 2019/27/08 
+*  
+* A simple hello world program in C 
+* 
+*/
 
-int main (void){
-
-// Hack 1 created by Tanner Haskins for CSCE 155E Section 150
-// Edited by Jialong Zhang
-  
-printf("Hello, my name is Tanner Haskins\n");
-printf("Hello, my name is Jialong Zhang, my major is computer science\n");
-printf("My major is Electrical Engineering\n");
-
-return 0;
+#include<stdlib.h>
+#include<stdio.h>
+int main(int argc, char **argv) {
+	printf("Hello World!\n");
+	return 0;
 }
